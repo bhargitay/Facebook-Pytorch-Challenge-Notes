@@ -10,5 +10,5 @@ The aim of this repo is to help other scholars to gain better understanding on t
 :-----|:-----
 Gradient Descent|Gradient Descent Tutorial (in Numpy)
 Neural Networks Mind Map|A mind map on Neural Networks
-PyTorch_Notes/|Basics of PyTorch
+PyTorch_Notes|Notes on the basics of PyTorch
 
