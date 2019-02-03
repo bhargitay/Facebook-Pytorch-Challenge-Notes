@@ -1,4 +1,4 @@
-# Facebook Pytorch Challenge Notes
+# Facebook PyTorch Challenge Notes
 
 This repository contains my notes on a few lessons included in the 'Facebook PyTorch Challenge'. 
 The aim of this repo is to help other scholars to gain better understanding on the topics that casued a lot of trouble in the community. 
